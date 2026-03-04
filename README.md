@@ -34,4 +34,4 @@ This project builds an automated, end-to-end predictive pipeline to classify loa
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
+   git clone [https://github.com/YourUsername/mohamedabdelaziz6174](https://github.com/YourUsername/Your-Repo-Name.git)
